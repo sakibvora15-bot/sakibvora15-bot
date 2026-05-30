@@ -41,20 +41,11 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sakibvora15-bot&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakibvora15-bot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sakib's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibvora15-bot&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>---
 
 ### 🚀 Featured Project
 
