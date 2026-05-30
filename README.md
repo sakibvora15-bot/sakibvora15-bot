@@ -41,11 +41,26 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sakibvora15-bot&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
+</p>
+
+---
+
 ### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakibvora15-bot&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sakibvora15-bot&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
+
+---
 
 ### 🚀 Featured Project
 
