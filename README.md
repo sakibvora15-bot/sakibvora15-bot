@@ -67,6 +67,7 @@
 | Project | Description | Live |
 |--------|-------------|------|
 | 💼 Portfolio | Personal portfolio built with React.js & Vite | [Visit →](https://sakibvora15-bot.github.io/Portfolio/) |
+| 🛡️ Real-Time Data Breach Alert System | Real-time cybersecurity web application built with the MERN stack | [Visit →](https://real-time-data-breach-aleart-system.vercel.app/) |
 
 ---
 
